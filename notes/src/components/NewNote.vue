@@ -28,4 +28,7 @@
   .new-note {
     text-align: center;
   }
+  .btn {
+    margin-top: 15px;
+  }
 </style>
